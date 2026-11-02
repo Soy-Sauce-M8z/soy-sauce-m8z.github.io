@@ -1,22 +1,22 @@
 {
   "/": {
-    "title": "Sai Thiruveedula · Computer Science & Design",
+    "title": "Portfolio",
     "description": "Portfolio of Sai Thiruveedula, a UT Dallas computer science student designing and building interfaces, apps, and games."
   },
   "/work/stars-stereo": {
-    "title": "Star's Stereo · Case study by Sai Thiruveedula",
+    "title": "Star's Stereo",
     "description": "Case study: designing and building Star's Stereo, a Discord music bot with a soft sticker-book personality, built with Python and the Discord API."
   },
   "/work/the-bright-side": {
-    "title": "The Bright Side · Case study by Sai Thiruveedula",
+    "title": "The Bright Side",
     "description": "Case study: designing The Bright Side, a weekly local newsletter that replaces doomscrolling with positive news, styled like a magazine."
   },
   "/work/closeknit": {
-    "title": "CloseKnit · Case study by Sai Thiruveedula",
+    "title": "CloseKnit",
     "description": "Case study: designing CloseKnit, a cozy mobile app that keeps families and friends close through daily questions, statuses, and games."
   },
   "/work/hope-haven": {
-    "title": "Hope Haven · Case study by Sai Thiruveedula",
+    "title": "Hope Haven",
     "description": "Case study: designing Hope Haven, a privacy-first React Native app that helps people in crisis find the right support."
   }
 }
